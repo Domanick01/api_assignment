@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Database file (DO NOT COMMIT)
+students.db
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
